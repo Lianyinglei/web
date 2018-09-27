@@ -1,0 +1,79 @@
+10
+
+dir
+17093
+svn://lianyl@123.56.130.210:11705/svnrepos/iot-release/devlopment/platform/web/Spring-Cloud-Admin-web/src/views
+svn://lianyl@123.56.130.210:11705
+
+
+
+2018-09-26T12:05:11.651407Z
+17091
+jijunfeng
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+524ba617-70cb-4f49-ba9b-5bf86ecea157
+
+center
+dir
+
+introduction
+dir
+
+analysis
+dir
+
+charts
+dir
+
+qiniu
+dir
+
+personFormation
+dir
+
+components
+dir
+
+monitor
+dir
+
+dashboard
+dir
+
+permission
+dir
+
+admin
+dir
+
+error
+dir
+
+errlog
+dir
+
+auth
+dir
+
+theme
+dir
+
+login
+dir
+
+layout
+dir
+
